@@ -1,0 +1,42 @@
+{
+    "Intro": {
+      "name": "Ashwin",
+      "email": "ashwinparthasarathy30@gamil.com",
+      "phone": 9677060491,
+      "degree": "B.E",
+      "location": {
+        "city": "Kannur",
+        "state": "Kerala",
+        "country": "India"
+      }
+    },
+    "work": [
+      {
+        "company": "wipro",
+        "position": "software developer"}
+        
+    ],
+    "education": [
+      {
+        "institution": "veltech engg college",
+        "department": "Mechanical",
+        "cgpa": 6.8
+      }
+    ],
+    "skills": [
+      {
+        "language": "python,javascript",
+        "database":"Mysql,Mongodb"
+      }
+    ],
+    "languages": [
+      {
+        "language": "Tamil,Enlish,Hindi"
+      }
+    ],
+    "interests": [
+      {
+        "name": "binge watching,reading books"
+      }
+    ]
+  }
